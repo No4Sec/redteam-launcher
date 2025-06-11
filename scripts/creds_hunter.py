@@ -1,0 +1,1 @@
+# Credential finder (placeholder)
