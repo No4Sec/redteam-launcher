@@ -57,21 +57,21 @@ nosec-launcher/
 ---
 
 ## 🛰️ Recon Launcher
-
+```bash
 1.Active Recon
 2.Web Enum
 3.WhoIs Lookup
-
+```
 ---
 
 ## 🧠 Windows Remote Recon Launcher
-
+```bash
 1.SMB Enumeration
 2.NetBIOS Enumeration
 3.RPC Dumper
 4.Null Session Checker
 5.Enum Shares
-
+```
 ---
 
 ## ⚙️ Usage
