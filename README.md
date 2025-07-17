@@ -29,7 +29,7 @@ Includes multiple launchers and plug & play scripts for privilege escalation, re
 ---
 
 ## 📁 Structure
-
+```bash
 nosec-launcher/
 ├── main_launcher.py
 ├── launcher.py
@@ -38,11 +38,11 @@ nosec-launcher/
 ├── scripts/
 │ ├── [ all recon & privesc scripts ]
 └── README.md
-
+```
 ---
 
 ## 🔓 Privilege Escalation Launcher (Working is only local)
-
+```bash
 1.Privilege Escalation
 2.Credential Hunting
 3.Network Discovery
@@ -53,13 +53,10 @@ nosec-launcher/
 8.Sudo Checker
 9.Sensitive File Finder
 10.Reverse Shell Collector
-
+```
 ---
 
 ## 🛰️ Recon Launcher
-
-
-[RECON MODULES]
 
 1.Active Recon
 2.Web Enum
